@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
 # NAME:PRASHANTH.K
-# REFERENCE NUMBER:212223230152
+# REGISTER NUMBER:212223230152
 
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
