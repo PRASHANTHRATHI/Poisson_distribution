@@ -1,6 +1,8 @@
 # Fitting Poisson  distribution
-# Aim : 
+# NAME:PRASHANTH.K
+# REFERENCE NUMBER:212223230152
 
+# Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
 # Software required :  
